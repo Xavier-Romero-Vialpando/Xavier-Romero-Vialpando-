@@ -1,40 +1,63 @@
 # Hi, I'm Xavier Romero-Vialpando 👋
 
-## Cybersecurity Professional | Security+ Certified | M.S. Cybersecurity | Security Operations | Incident Response
+## 🛡️ Security+ Certified Cybersecurity Professional | M.S. Cybersecurity | Security Operations | Incident Response
 
 Welcome to my cybersecurity portfolio.
 
-I'm a cybersecurity professional with a passion for Security Operations (SOC), Incident Response, Detection Engineering, and Enterprise Infrastructure Security. This GitHub serves as a living portfolio documenting the hands-on labs, projects, and technical skills I've developed through graduate coursework, independent research, and my enterprise home lab.
+I'm a cybersecurity professional passionate about protecting enterprise environments through Security Operations (SOC), Incident Response, Detection Engineering, and Infrastructure Security. This GitHub serves as my living portfolio, documenting the hands-on labs, enterprise projects, and technical solutions I've built through graduate coursework, independent research, and my cybersecurity home lab.
 
-My goal is to continuously expand my technical knowledge while building practical experience that reflects real-world security operations and infrastructure.
+My objective is to continuously expand my technical expertise while building practical, real-world cybersecurity experience that reflects modern enterprise environments.
 
 ---
 
-# 🎯 Current Learning Goals
+# 🎯 Portfolio Mission
+
+This portfolio demonstrates my commitment to continuous learning and hands-on cybersecurity development.
+
+Rather than simply studying cybersecurity concepts, I build, secure, document, and analyze enterprise environments that mirror real-world organizations.
+
+Every project includes:
+
+- 🏗️ Architecture diagrams
+- ⚙️ Step-by-step implementation
+- 📸 Screenshots
+- 🔍 Security analysis
+- 💡 Lessons learned
+- 📄 Professional documentation
+- ✅ Recommendations and best practices
+
+---
+
+# 🚧 Current Focus
 
 - Microsoft Sentinel (SIEM)
 - Detection Engineering
 - Threat Hunting
-- Windows Server Administration
 - Active Directory
+- Windows Server Administration
 - Linux Administration
 - Cloud Security
-- Security Automation with PowerShell & Python
+- Security Automation
+- PowerShell
+- Python
 
 ---
 
 # 🛠 Technical Skills
 
 ## Security Operations
+
+- Security Operations Center (SOC)
 - Security Monitoring
 - Incident Response
 - Threat Hunting
-- Vulnerability Management
 - Detection Engineering
+- Vulnerability Management
 - Security Hardening
 - Log Analysis
 
 ## Networking
+
 - TCP/IP
 - DNS
 - DHCP
@@ -45,18 +68,21 @@ My goal is to continuously expand my technical knowledge while building practica
 - Network Segmentation
 
 ## Operating Systems
+
 - Windows Server
-- Windows 10/11
+- Windows 10 / 11
 - Ubuntu Linux
 - Kali Linux
 
 ## Virtualization
+
 - Oracle VirtualBox
-- Virtual Network Design
-- Enterprise Lab Development
+- Enterprise Lab Design
+- Virtual Network Architecture
 
 ## Security Tools
-- Microsoft Sentinel *(Learning)*
+
+- Microsoft Sentinel *(Currently Learning)*
 - Wireshark
 - Nmap
 - OpenVAS
@@ -64,26 +90,58 @@ My goal is to continuously expand my technical knowledge while building practica
 - Metasploit
 - Sysmon
 - pfSense
-- Git & GitHub
+- Git
+- GitHub
+
+---
+
+# 🗺️ Enterprise Lab Roadmap
+
+🟢 = Completed  
+🟡 = In Progress  
+⚪ = Planned
+
+🟡 Enterprise Active Directory Lab
+
+⚪ Windows Server Administration
+
+⚪ Linux Server Administration
+
+⚪ Enterprise pfSense Firewall
+
+⚪ Microsoft Sentinel SIEM
+
+⚪ Threat Hunting
+
+⚪ Detection Engineering
+
+⚪ Vulnerability Management
+
+⚪ Incident Response
+
+⚪ Security Automation
 
 ---
 
 # 🚀 Portfolio Projects
 
-## 🔥 Enterprise Active Directory Lab *(In Progress)*
-Building a complete enterprise Windows environment including:
+## 🟡 Enterprise Active Directory Lab *(In Progress)*
+
+Building a simulated enterprise Windows environment including:
 
 - Active Directory Domain Services
 - DNS
 - DHCP
 - Group Policy
-- Organizational Units
-- User Administration
-- Windows Client Management
+- Organizational Units (OUs)
+- User & Group Administration
+- Windows 11 Enterprise Clients
+- Security Hardening
+- Enterprise Network Design
 
 ---
 
-## 🛡 Microsoft Sentinel SIEM *(Coming Soon)*
+## ⚪ Microsoft Sentinel SIEM *(Planned Project)*
 
 - Log Collection
 - Threat Detection
@@ -94,7 +152,7 @@ Building a complete enterprise Windows environment including:
 
 ---
 
-## 🌐 Enterprise pfSense Firewall *(Coming Soon)*
+## ⚪ Enterprise pfSense Firewall *(Planned Project)*
 
 - Firewall Rules
 - NAT
@@ -105,26 +163,24 @@ Building a complete enterprise Windows environment including:
 
 ---
 
-## 🔍 Threat Hunting Lab *(Coming Soon)*
+## ⚪ Threat Hunting Lab *(Planned Project)*
 
-Using Sysmon and Windows Event Logs to investigate security events and simulate real-world attack scenarios.
+Using Sysmon, Windows Event Logs, and Microsoft Sentinel to investigate security events and simulate real-world attack scenarios.
 
 ---
 
-## ⚠️ Vulnerability Management *(Coming Soon)*
+## ⚪ Vulnerability Management *(Planned Project)*
 
-Conducting vulnerability assessments using OpenVAS, Nessus, and Nmap while documenting remediation recommendations.
+Conducting vulnerability assessments using OpenVAS, Nessus, and Nmap while documenting findings and remediation recommendations.
 
 ---
 
 # 🎓 Education
 
-**Master of Science – Cybersecurity**
-
+**Master of Science – Cybersecurity**  
 Southern New Hampshire University
 
-**Bachelor of Science – Cybersecurity**
-
+**Bachelor of Science – Cybersecurity**  
 Southern New Hampshire University
 
 ---
@@ -135,23 +191,46 @@ Southern New Hampshire University
 
 ---
 
-# 📈 Current Objective
+# 🎯 Career Objective
 
 I'm actively pursuing opportunities in:
 
 - Security Operations Center (SOC)
-- Incident Response
 - Cybersecurity Analyst
+- Incident Response
 - Security Engineering
-- Threat Detection
-- Detection & Response
+- Threat Detection & Response
 
-while continuing to build enterprise security projects and expand my technical expertise.
+My goal is to contribute to an organization's security mission while continuously expanding my technical expertise through enterprise lab development, real-world security projects, and lifelong learning.
+
+---
+
+# 📈 What You'll Find in This Portfolio
+
+As this portfolio grows, you'll find projects covering:
+
+- Active Directory
+- Windows Server Administration
+- Linux Administration
+- Enterprise Networking
+- Microsoft Sentinel
+- Threat Hunting
+- Detection Engineering
+- Vulnerability Management
+- Incident Response
+- PowerShell Automation
+- Python for Security
+- Cloud Security
+- Security Architecture
+- Enterprise Documentation
 
 ---
 
 # 📫 Connect With Me
 
-**LinkedIn**
+**LinkedIn**  
+🔗 https://www.linkedin.com/in/xavier-romero-vialpando-494016310
 
-https://www.linkedin.com/in/xavier-romero-vialpando-494016310
+---
+
+> *"Cybersecurity is more than understanding technology—it's continuously learning, solving problems, and building secure solutions that protect people and organizations."*
